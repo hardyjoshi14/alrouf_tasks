@@ -1,0 +1,18 @@
+ALROUF STREETLIGHT SPECIFICATIONS
+
+Product: ALR-SL-90W Streetlight Pole
+Power: 90W LED
+Luminous Flux: 12,000 lumens
+Color Temperature: 4000K-5000K
+Height Options: 8m, 10m, 12m
+Material: Hot-dipped galvanized steel
+Finish: Powder coating, RAL 9010 white
+Wind Resistance: 150 km/h
+Warranty: 5 years structural, 2 years finish
+Standards: SASO 2664, IEC 60598-2-3
+
+Installation Requirements:
+- Foundation depth: 1.5 meters minimum
+- Concrete grade: C25/30
+- Ground resistance: <10 ohms
+- Electrical: IP66 rating

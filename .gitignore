@@ -1,0 +1,7 @@
+venv/
+.venv
+.pytest_cache
+.vscode
+__pycache__/
+vector_store
+vector_store_ollama

@@ -1,0 +1,11 @@
+langchain==0.0.346
+faiss-cpu==1.7.4
+pypdf==3.17.0
+torch>=2.0.0
+accelerate>=0.20.0
+numpy==1.24.3
+huggingface-hub==0.36.0 
+sentence-transformers==5.1.2 
+tokenizers==0.22.1 
+transformers==4.57.1
+ollama==0.6.0
